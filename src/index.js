@@ -1,1 +1,1 @@
-export { default as Themer, useTheme } from "./Themer.js";
+export { default as Themer, useTheme } from "./Themer.jsx";
