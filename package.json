@@ -1,0 +1,27 @@
+{
+  "name": "react-easy-themer",
+  "version": "1.0.1",
+  "main": "src/index.js",
+  "peerDependencies": {
+    "react": "^16.8.0 || ^17.0.0 || ^18.0.0",
+    "react-dom": "^16.8.0 || ^17.0.0 || ^18.0.0"
+  },
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "react",
+    "theme",
+    "themer",
+    "easy",
+    "dark mode",
+    "light mode"
+  ],
+  "description": "A simple and easy way to add theming to your React applications.",
+  "author": "Nikhil Plavalappil Kuttan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhilpktcr/react-easy-themer.git"
+  }
+}
