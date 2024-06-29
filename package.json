@@ -1,6 +1,6 @@
 {
   "name": "react-easy-themer",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "main": "src/index.js",
   "peerDependencies": {
     "prop-types": "^15.8.1",
