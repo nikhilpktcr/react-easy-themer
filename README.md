@@ -1,8 +1,8 @@
 # react-easy-themer
 
-## Easy theme management for React apps
+### Easy theme management for React apps
 
-`react-easy-themer` is a lightweight package that provides an easy way to manage themes in your React applications. With `react-easy-themer`, you can easily switch between different themes, customize theme styles, and access theme information in your components.
+`react-easy-themer` is a lightweight package that provides an easy way to manage themes in your React applications. With `react-easy-themer`, you can easily switch between different themes.
 
 ### Features
 
@@ -13,9 +13,11 @@
 
 ### Installation
 
+```bash
 npm install react-easy-themer
+```
 
-### IMPLEMENTATION
+### Implementation
 
 src/App.jsx
 
